@@ -23,30 +23,29 @@ span {
     padding-top: 20px;
 }
 
-img{
-    max-width: 100%;
-    display: block;
-    margin: auto;
-}
-
 #img-div {
     border-radius: 10px;
     background-color: #fff;
-    margin: 1.5em 1.5em;
-    border: 10px solid white;
+    width: 700px;
+    margin: 1.5em auto;
+    padding: 1em;
+}
+
+img {
+    display: block;
 }
 
 #img-caption {
-    margin: 1em;
+    margin-top: 1em;
 }
 
 ul {
     max-width: 600px;
     text-align: left;
-    margin: 0 auto;
+    margin: auto;
 }
 
-#intro{
+#intro {
     margin-top: 1.5em;
 }
 
@@ -60,4 +59,9 @@ blockquote {
 
 #author {
     font-style: normal;
+}
+
+#more-info {
+    font-size: 1.25em;
+    font-weight: bold;
 }
