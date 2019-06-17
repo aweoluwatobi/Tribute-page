@@ -1,7 +1,7 @@
-@import url('https://fonts.googleapis.com/css?family=Karla');
+@import url('https://fonts.googleapis.com/css?family=Noto+Sans+HK&display=swap');
 
 html, body {
-    font-family: 'Karla', sans-serif;
+    font-family: 'Noto Sans HK', sans-serif;
     margin: 0;
 }
 
